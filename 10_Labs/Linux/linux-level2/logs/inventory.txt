@@ -1,0 +1,5 @@
+total 0
+-rw-r--r--  1 aadhu  staff  0  1 Jul 16:03 app.log
+-rw-r--r--  1 aadhu  staff  0  1 Jul 16:03 error.log
+-rw-r--r--  1 aadhu  staff  0  1 Jul 16:11 inventory.txt
+-rw-r--r--  1 aadhu  staff  0  1 Jul 16:03 server.log
