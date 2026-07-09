@@ -1,0 +1,5 @@
+#!/bin/bash 
+read -sp "Enter password" PASSWORD
+echo
+echo "stored password succesfully"
+
